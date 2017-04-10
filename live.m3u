@@ -1,7 +1,6 @@
 # US
 #EXTM3U
 #EXTINF:-1,==============USA ==============
-
 #EXTINF:-1,USA : A&E HD
 http://root-iptv.is-found.org:25461/live/trees/trees/16606.ts
 #EXTINF:-1,USA : BOOMERANG HD
@@ -216,6 +215,8 @@ http://root-iptv.is-found.org:25461/live/trees/trees/1617.ts
 http://root-iptv.is-found.org:25461/live/trees/trees/1618.ts
 #EXTINF:-1,USA | PAC12 WASINGTON
 http://root-iptv.is-found.org:25461/live/trees/trees/1619.ts
+#EXTINF:-1,PAC-12 (National)
+http://xrxs.net/video/live-p12netw-2328.m3u8
 #EXTINF:-1,USA | PBS
 http://root-iptv.is-found.org:25461/live/trees/trees/808.ts
 #EXTINF:-1,USA | SEC NETWORK
