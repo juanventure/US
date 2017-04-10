@@ -1,6 +1,8 @@
 # US
 #EXTM3U
 #EXTINF:-1,==============USA ==============
+#EXTINF:-1,USA : CBS SPORTS NETWORK HD
+http://root-iptv.is-found.org:25461/live/trees/trees/16599.ts
 #EXTINF:-1,USA : A&E HD
 http://root-iptv.is-found.org:25461/live/trees/trees/16606.ts
 #EXTINF:-1,USA : BOOMERANG HD
