@@ -1,300 +1,69 @@
 # US
 #EXTM3U  ///// USA IPTVSAT /////
-#EXTINF:-1,USA: EUROSPORT
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/21982.ts
-#EXTINF:-1,USA: NBA TV
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/21981.ts
-#EXTINF:-1,USA: WWE HD
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/21979.ts
-#EXTINF:-1,USA: FOX SPORT 1
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13671.ts
-#EXTINF:-1,USA: FOX SPORT 2
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13672.ts
-#EXTINF:-1,USA: TSN 1 HD
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13686.ts
-#EXTINF:-1,USA: TSN 2 HD
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13687.ts
-#EXTINF:-1,USA: TSN 3 HD
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13688.ts
-#EXTINF:-1,USA: TSN 4 HD
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13689.ts
-#EXTINF:-1,USA: TSN 5 HD
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13690.ts
-#EXTINF:-1,USA: ASTRO SPORT 1
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13664.ts
-#EXTINF:-1,USA: ASTRO SPORT 2
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13665.ts
-#EXTINF:-1,USA: ASTRO SPORT 3
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13666.ts
-#EXTINF:-1,USA: ASTRO SPORT 4
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13667.ts
-#EXTINF:-1,USA: ESPN
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13670.ts
-#EXTINF:-1,USA: NASA HD
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13677.ts
-#EXTINF:-1,USA: HISTORY
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13675.ts
-#EXTINF:-1,USA: ABC NEWS
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13662.ts
-#EXTINF:-1,US:  ABC HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1123.ts
-#EXTINF:-1,US:  ABC Spark
-http://46.105.115.25:8000/live/28637288237427/1593574628/1122.ts
-#EXTINF:-1,US: AMC HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1120.ts
-#EXTINF:-1,US:  Bravo HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1114.ts
-#EXTINF:-1,US:  CBN News
-http://46.105.115.25:8000/live/28637288237427/1593574628/1113.ts
-#EXTINF:-1,US:  CBS HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1095.ts
-#EXTINF:-1,US:  Cinemax East
-http://46.105.115.25:8000/live/28637288237427/1593574628/1111.ts
-#EXTINF:-1,US:  CW HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1094.ts
-#EXTINF:-1,US:  DISCCOVERY
-http://46.105.115.25:8000/live/28637288237427/1593574628/1134.ts
-#EXTINF:-1,US:  ESPN 2
-http://46.105.115.25:8000/live/28637288237427/1593574628/1118.ts
-#EXTINF:-1,US:  ESPN HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1136.ts
-#EXTINF:-1,US:  Fox Sport 1 HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1138.ts
-#EXTINF:-1,US:  Fox Sport 2
-http://46.105.115.25:8000/live/28637288237427/1593574628/1139.ts
-#EXTINF:-1,US:  FX HD USA
-http://46.105.115.25:8000/live/28637288237427/1593574628/1098.ts
-#EXTINF:-1,US:  HBO Zone HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1108.ts
-#EXTINF:-1,US:  HISTORY
-http://46.105.115.25:8000/live/28637288237427/1593574628/1133.ts
-#EXTINF:-1,US:  LIFETIME HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1117.ts
-#EXTINF:-1,US:  NAT GEOGRAPHIC
-http://46.105.115.25:8000/live/28637288237427/1593574628/1135.ts
-#EXTINF:-1,US:  NBA Network
-http://46.105.115.25:8000/live/28637288237427/1593574628/1116.ts
-#EXTINF:-1,US:  NBC SPORT
-http://46.105.115.25:8000/live/28637288237427/1593574628/1137.ts
-#EXTINF:-1,US:  Network HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1132.ts
-#EXTINF:-1,US:  NFL Network
-http://46.105.115.25:8000/live/28637288237427/1593574628/1107.ts
-#EXTINF:-1,US:  PBS HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1096.ts
-#EXTINF:-1,US:  SPIKE HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1131.ts
-#EXTINF:-1,US:  SYFY HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1130.ts
-#EXTINF:-1,US:  TBS HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1129.ts
-#EXTINF:-1,US: TNT HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1128.ts
+http://ndasat.pro:8000/live/aminstars/skypeexch/1093.ts
 #EXTINF:-1,US:  TSN 1
-http://46.105.115.25:8000/live/28637288237427/1593574628/1097.ts
+http://ndasat.pro:8000/live/aminstars/skypeexch/1097.ts
 #EXTINF:-1,US:  TSN 2
-http://46.105.115.25:8000/live/28637288237427/1593574628/1124.ts
+http://ndasat.pro:8000/live/aminstars/skypeexch/1124.ts
 #EXTINF:-1,US:  TSN 3
-http://46.105.115.25:8000/live/28637288237427/1593574628/1125.ts
-#EXTINF:-1,US:  TSN 4
-http://46.105.115.25:8000/live/28637288237427/1593574628/1126.ts
+http://ndasat.pro:8000/live/aminstars/skypeexch/1125.ts
+#EXTINF:-1,US: TSN 4
+http://ndasat.pro:8000/live/aminstars/skypeexch/1126.ts
 #EXTINF:-1,US:  TSN 5
-http://46.105.115.25:8000/live/28637288237427/1593574628/1127.ts
+http://ndasat.pro:8000/live/aminstars/skypeexch/1127.ts
+#EXTINF:-1,US:  TBS HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1129.ts
+#EXTINF:-1,US:  CBS HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1095.ts
+#EXTINF:-1,US: AMC HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1120.ts
+#EXTINF:-1,US:  ABC Spark
+http://ndasat.pro:8000/live/aminstars/skypeexch/1122.ts
+#EXTINF:-1,US:  ABC HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1123.ts
+#EXTINF:-1,US: HISTORY
+http://ndasat.pro:8000/live/aminstars/skypeexch/1133.ts
+#EXTINF:-1,US:  HBO Zone HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1108.ts
+#EXTINF:-1,US: TNT HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1128.ts
 #EXTINF:-1,US:  WILLOW CRICKET HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1102.ts
-#EXTINF:-1,AR:Bein News
-http://localhd.tv:8081/live/pedro/skype/1815.ts
-#EXTINF:-1,AR -- BeinHD Sports HD1
-http://localhd.tv:8081/live/pedro/skype/892.ts
-#EXTINF:-1,AR: BEIN Sports 1 HD
-http://localhd.tv:8081/live/pedro/skype/281.ts
-#EXTINF:-1,AR -- BeinHD Sports HD2
-http://localhd.tv:8081/live/pedro/skype/890.ts
-#EXTINF:-1,AR: BEIN Sports 2 HD
-http://localhd.tv:8081/live/pedro/skype/282.ts
-#EXTINF:-1,AR -- BeinHD Sports HD3
-http://localhd.tv:8081/live/pedro/skype/889.ts
-#EXTINF:-1,AR: BEIN Sports 3 HD
-http://localhd.tv:8081/live/pedro/skype/283.ts
-#EXTINF:-1,AR -- BeinHD Sports HD4
-http://localhd.tv:8081/live/pedro/skype/888.ts
-#EXTINF:-1,AR: BEIN Sports 4 HD
-http://localhd.tv:8081/live/pedro/skype/284.ts
-#EXTINF:-1,AR -- BeinHD Sports HD5
-http://localhd.tv:8081/live/pedro/skype/887.ts
-#EXTINF:-1,AR: BEIN Sports 5 HD
-http://localhd.tv:8081/live/pedro/skype/351.ts
-#EXTINF:-1,AR -- BeinHD Sports HD6
-http://localhd.tv:8081/live/pedro/skype/886.ts
-#EXTINF:-1,AR: BEIN Sports 6 HD
-http://localhd.tv:8081/live/pedro/skype/353.ts
-#EXTINF:-1,AR -- BeinHD Sports HD7
-http://localhd.tv:8081/live/pedro/skype/885.ts
-#EXTINF:-1,AR: BEIN Sports 7 HD
-http://localhd.tv:8081/live/pedro/skype/354.ts
-#EXTINF:-1,AR -- BeinHD Sports HD8
-http://localhd.tv:8081/live/pedro/skype/884.ts
-#EXTINF:-1,AR: BEIN Sports 8 HD
-http://localhd.tv:8081/live/pedro/skype/355.ts
-#EXTINF:-1,AR: BEIN Sports 9 HD
-http://localhd.tv:8081/live/pedro/skype/356.ts
-#EXTINF:-1,AR: BEIN Sports 10 HD
-http://localhd.tv:8081/live/pedro/skype/352.ts
-#EXTINF:-1,AR -- BeinHD Sports HD10
-http://localhd.tv:8081/live/pedro/skype/891.ts
-#EXTINF:-1,AR: BEIN SPORT 11 HD
-http://localhd.tv:8081/live/pedro/skype/1492.ts
-#EXTINF:-1,AR : beINSport 12 HD
-http://localhd.tv:8081/live/pedro/skype/1493.ts
-#EXTINF:-1,beINSport 13 HD
-http://localhd.tv:8081/live/pedro/skype/1494.ts
-#EXTINF:-1,beINSport 14 HD
-http://localhd.tv:8081/live/pedro/skype/1495.ts
-#EXTINF:-1,beINSport 15 HD
-http://localhd.tv:8081/live/pedro/skype/1496.ts
-#EXTINF:-1,beINSport 16 HD
-http://localhd.tv:8081/live/pedro/skype/1497.ts
-#EXTINF:-1,AR:BEIN_SPORT_MAX_1
-http://localhd.tv:8081/live/pedro/skype/2190.ts
-#EXTINF:-1,AR:BEIN_SPORT_MAX_2
-http://localhd.tv:8081/live/pedro/skype/2191.ts
-#EXTINF:-1,Sky Sport 1
-http://178.196.220.26:9981/play/a00c
-#EXTINF:-1,Sky Sports 1 SD
-http://88.148.69.129:9090/play/a02h
-#EXTINF:-1,Sky Sport 2
-http://178.196.220.26:9981/play/a02a
-#EXTINF:-1,Sky Sport 2 HD
-http://178.196.220.26:9981/play/a017
-#EXTINF:-1,Eurosport 1 HD
-http://178.196.220.26:9981/play/a00z
-#EXTINF:-1,BT Sport 2
-http://5.255.90.223:2082/play/a01u
-#EXTINF:-1,BT Sport 2
-http://5.255.90.223:2082/play/a01t
-#EXTINF:-1,BT Sport Extra 2
-http://5.255.90.223:2082/play/a01m
-#EXTINF:-1,BT Sport Extra 3
-http://5.255.90.223:2082/play/a01n
-#EXTINF:-1,BT Sport Extra 4
-http://5.255.90.223:2082/play/a01o
-#EXTINF:-1,BT Sport Extra 5
-http://5.255.90.223:2082/play/a01p
-#EXTINF:-1,BT Sport Extra 6
-http://5.255.90.223:2082/play/a01q
-#EXTINF:-1,BT Sport//ESPN
-http://5.255.90.223:2082/play/a01v
-#EXTINF:-1,BT Sport//ESPN
-http://5.255.90.223:2082/play/a01w
-#EXTINF:-1, Sports Active 1
-http://5.255.90.223:2052/play/active1
-#EXTINF:-1, Sports Active 2
-http://5.255.90.223:2052/play/active2
-#EXTINF:-1, Sports Active 3
-http://5.255.90.223:2052/play/active3
-#EXTINF:-1, Sports Active 4
-http://5.255.90.223:2052/play/active4
-#EXTINF:-1, Sports Active 5
-http://5.255.90.223:2052/play/active5
-#EXTINF:-1, Sports Active 6
-http://5.255.90.223:2052/play/active6
-#EXTINF:-1, Sports Active 7
-http://5.255.90.223:2052/play/active7
-#EXTINF:-1, Sports Active 8
-http://5.255.90.223:2052/play/active8
-#EXTINF:-1, Sports Active 9
-http://5.255.90.223:2052/play/active9
-#EXTINF:-1,EUROSPORT 1
-http://89.38.8.131:39542
-#EXTINF:-1,EUROSPORT 1 HD
-http://89.38.8.130:39425
-#EXTINF:-1,EUROSPORT 2
-http://89.38.8.130:39426
-#EXTINF:-1,EUROSPORT 2 HD
-http://89.38.8.131:39543
-#EXTINF:-1,SPORT RO
-http://89.38.8.130:39430
-#EXTINF:-1,SPORT RO HD
-http://89.38.8.131:39533
-#EXTINF:-1 UK:BT SPORT 1
-http://31.204.155.156:8080/edge/10560/tracks-v1a1/index.m3u8?token=17.18.1371.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.631.0.0.03fb24bcf98a302242d7b20edea5a374
-#EXTINF:-1 UK:BT SPORT 2
-http://31.204.155.156:8080/edge/8584/tracks-v1a1/index.m3u8?token=17.18.1384.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.631.0.0.69b4ca0e63e4c7f53c6187681cd0d997
-#EXTINF:-1 UK:BT SPORT 3
-http://31.204.150.12:8080/edge/10788/tracks-v1a1/index.m3u8?token=17.18.1385.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.c4332d57145ac75649b1fe7b4730e48d
-#EXTINF:-1,Eurosport 1 HD DK
-http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8
-#EXTINF:-1,Eurosport 2 HD DK
-http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
-#EXTINF:-1,BT Mosaic
-http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 1
-http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 2
-http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 3
-http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 4
-http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
-#EXTINF:0 , SuperSport 1
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:0 , SuperSport 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:0 , SuperSport 3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1,BeinSport_8_HD
-http://2.109.65.179/hdmi
-#EXTINF:-1,BeinSport_9_HD
-http://2.109.65.180/hdmi
-#EXTINF:-1,BeinSport_4_HD
-http://2.109.65.181/hdmi
-#EXTINF:-1,Sport Digital HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/194.m3u8
-#EXTINF:-1,Sport 1  HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/892.m3u8
-#EXTINF:-1,Sport1+ HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/43.m3u8
-#EXTINF:-1,Sport1*US HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/494.m3u8
-#EXTINF:-1,EuroSport 1 HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/87.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/109.m3u8
-#EXTINF:-1,ORF Sport +
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/573.m3u8
-#EXTINF:-1,Sky Sport Austria HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/108.m3u8
-#EXTINF:-1,Sky Fanzone HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/837.m3u8
-#EXTINF:-1,Sky Sport News HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/102.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/103.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/88.m3u8
-#EXTINF:-1,Sky Sport 3. HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/89.m3u8
-#EXTINF:-1,Sky Sport 4. HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/90.m3u8
-#EXTINF:-1,SKY Sport 5. HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/104.m3u8
-#EXTINF:-1,Sky Sport 6. HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/44.m3u8
-#EXTINF:-1,Sky Sport 7. HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/86.m3u8
-#EXTINF:-1,Sky Sport 8. HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/45.m3u8
-#EXTINF:-1,Sky Sport 9. HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/676.m3u8
-#EXTINF:-1,Sky Sport 10. HD
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/678.m3u8
-#EXTINF:-1,PL: TVP SPORT
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/270.m3u8
-#EXTINF:-1,PL: Canal+ Sport
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/967.m3u8
-#EXTINF:-1,PL: nSport Plus
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/968.m3u8
-#EXTINF:-1,PL: Eurosport 1
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/1052.m3u8
-#EXTINF:-1,PL: Eurosport 2
-http://cobra2016.dyndns.tv:1947/live/3XBernd/03B12E2014/1053.m3u8
+http://ndasat.pro:8000/live/aminstars/skypeexch/1102.ts
+#EXTINF:-1,US:  SYFY HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1130.ts
+#EXTINF:-1,US: SPIKE HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1131.ts
+#EXTINF:-1,US:  PBS HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1096.ts
+#EXTINF:-1,US:  NFL Network
+http://ndasat.pro:8000/live/aminstars/skypeexch/1107.ts
+#EXTINF:-1,US: Network HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1132.ts
+#EXTINF:-1,US:  NBC SPORT
+http://ndasat.pro:8000/live/aminstars/skypeexch/1137.ts
+#EXTINF:-1,US:  NBA Network
+http://ndasat.pro:8000/live/aminstars/skypeexch/1116.ts
+#EXTINF:-1,US: NAT GEOGRAPHIC
+http://ndasat.pro:8000/live/aminstars/skypeexch/1135.ts
+#EXTINF:-1,US: LIFETIME HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1117.ts
+#EXTINF:-1,US:  FX HD USA
+http://ndasat.pro:8000/live/aminstars/skypeexch/1098.ts
+#EXTINF:-1,US:  Fox Sport 1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1138.ts
+#EXTINF:-1,US:  Fox Sport 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/1139.ts
+#EXTINF:-1,US:  ESPN HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1136.ts
+#EXTINF:-1,US:  ESPN 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/1118.ts
+#EXTINF:-1,US:  DISCCOVERY
+http://ndasat.pro:8000/live/aminstars/skypeexch/1134.ts
+#EXTINF:-1,US: CW HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1094.ts
+#EXTINF:-1,US:  Cinemax East
+http://ndasat.pro:8000/live/aminstars/skypeexch/1111.ts
+#EXTINF:-1,US: CBN News
+http://ndasat.pro:8000/live/aminstars/skypeexch/1113.ts
+#EXTINF:-1,US: Bravo HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1114.ts
