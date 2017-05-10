@@ -1,5 +1,6 @@
-# US
-#EXTM3U  ///// USA IPTVSAT /////
+#EXTM3U  
+///// USA IPTVSAT /////
+#EXTINF:-1,UK: Community
 http://ndasat.pro:8000/live/aminstars/skypeexch/1093.ts
 #EXTINF:-1,US:  TSN 1
 http://ndasat.pro:8000/live/aminstars/skypeexch/1097.ts
