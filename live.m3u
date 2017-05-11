@@ -1,6 +1,8 @@
 #EXTM3U  
 #EXTINF:-1,UK: MTV
 http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7061.ts
+#EXTINF:-1,UK: MTV
+http://downhomecooking.000webhostapp.com/m3u/mtv.m3u
 #EXTINF:-1,UK: Community
 http://46.249.62.20:1827/play/a008
 #EXTINF:-1,UK: BT Sport Mosaic 2
