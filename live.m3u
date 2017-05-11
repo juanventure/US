@@ -139,3 +139,157 @@ http://85.7.107.8:8010/play/a03m
 http://85.7.107.8:8010/play/a03q
 #EXTINF:-1,TVCine 2 HD
 http://85.7.107.8:8010/play/a03c
+#EXTINF:-1 BBC ONE W Mid
+http://86.166.86.159:9981/stream/channelid/2004620013?ticket=DEF7CAF26A7C5F0A5303D0AE536B9E4DDD9B16E3&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/201" tvg-id="99669aa2e1276c85e9de6c66b52b00bb",BBC TWO
+http://86.166.86.159:9981/stream/channelid/580544153?ticket=D8DCD82EFC494BD12D6C1BEB967EB7DB1BCE9F3B&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/202" tvg-id="4e84ca4afd13ed8ee78d0ff99bba69d7",ITV
+http://86.166.86.159:9981/stream/channelid/1254786126?ticket=A577589292BC627ECEA63E08C58045AAD7142E10&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/203" tvg-id="929cc04db4f1bd80c4f469ac4ff7aefd",Channel 4
+http://86.166.86.159:9981/stream/channelid/1304468626?ticket=5F63BD4DB877285E9078A00BBBE994BF8E255D11&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/204" tvg-id="ac8c1261308a3d58cf9dd7ee75d192cc",Channel 5
+http://86.166.86.159:9981/stream/channelid/1628605612?ticket=507A0621D540615CDEC7707F738B7F7C90BD73E0&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/205" tvg-id="93c88be26ff8b7a99a2f96e51b04e93c",ITV2
+http://86.166.86.159:9981/stream/channelid/1653328019?ticket=4CB768284DDD7E4C107B99F6E51ED9A16F33683A&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/207" tvg-id="aa33cfd5ce3174449af7c24af64ac205",Made in Birmingham
+http://86.166.86.159:9981/stream/channelid/1439642538?ticket=08933A91D8007BC26BDC0221D67A91EF793DB307&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/208" tvg-id="4a897eb76d360202b31abca156349e17",BBC FOUR
+http://86.166.86.159:9981/stream/channelid/931039562?ticket=9D6E7BD0CF34B6AA00217BC859A23C7FA749CA38&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/209" tvg-id="2931013a1055b695e525f8f882d6fb8f",ITV3
+http://86.166.86.159:9981/stream/channelid/973156649?ticket=17BB541AE5C87384E81A02BE2ECE500E110E4146&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/210" tvg-id="93f24bde5c74f9ac9f3ce791caa94a07",Pick
+http://86.166.86.159:9981/stream/channelid/1582035603?ticket=4A18ADFD8FE9F9CDD2FA1C7223339988FEF2D584&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/211" tvg-id="145e4da16a22903e9a5c0b13917f1cb5",Dave
+http://86.166.86.159:9981/stream/channelid/558718484?ticket=FB10F07E52F0918B71E7781F6546B0EB90B84D69&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/212" tvg-id="cff575e87266a48ad4bb2ddfdbf359df",Channel 4+1
+http://86.166.86.159:9981/stream/channelid/1752561103?ticket=11348AA88608AF4F75F2DE7391823895A9B97DC7&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/213" tvg-id="1165c9bf981f1f8783bf2c34bbe1d1db",More 4
+http://86.166.86.159:9981/stream/channelid/1070163217?ticket=7E7E78E2A13698C12BABADABE47433A152A156D3&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/214" tvg-id="6e3eb960f78b326cc66681d5e8e576fa",Film4
+http://86.166.86.159:9981/stream/channelid/1622752878?ticket=232EF8A1120ACFBA8C3B5CE326446C3A2DC82A66&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/215" tvg-id="b693e53a301ccc11e4ba729eaec38417",QVC
+http://86.166.86.159:9981/stream/channelid/988124086?ticket=BF5BB327491DDA3E0858DF5554CDBC944A3C1CAC&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/216" tvg-id="9920a442d3ebf1455e7a37ea1dab3d7e",Really
+http://86.166.86.159:9981/stream/channelid/1118052505?ticket=4A029B8BA977BD6234E7D0CF932F16E9E444745E&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/219" tvg-id="036b84fac0995c75ef0aaae9372d03a2",Drama
+http://86.166.86.159:9981/stream/channelid/2055498499?ticket=B92ABC2C101607F29397591315849E96AE89639D&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/220" tvg-id="f0bd26ec0bbf754157d86c6467e5699f",5 USA
+http://86.166.86.159:9981/stream/channelid/1814478320?ticket=5F74BAF3B7495F7300A67EB52D65E56C6D843143&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/232" tvg-id="2044896f33632947fa95e00d7b860bcf",Create & Craft
+http://86.166.86.159:9981/stream/channelid/1871266848?ticket=5243FB66CD2D0EA26E94BEC16227EC8135C3813A&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/295" tvg-id="2bb65b5c732609e59644909b1dadd2c0",ITV4
+http://86.166.86.159:9981/stream/channelid/1549514283?ticket=BECFF0C0946DCE055E3915B8EBE263D08AF9C10E&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/223" tvg-id="ab9bbd09c1d1d9093856c0eab0a9b264",ITVBe
+http://86.166.86.159:9981/stream/channelid/163421099?ticket=D717E8593AD558BB74EACD88C26C5B94DF70AFE5&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/224" tvg-id="b0cfb7917e4cbb28b851704c3c550944",ITV2 +1
+http://86.166.86.159:9981/stream/channelid/297258928?ticket=1FED0FBDBF7E1491DE13CD2877DC5D7106CD4696&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/225" tvg-id="572273152adaf1abd951359906a299df",E4
+http://86.166.86.159:9981/stream/channelid/359866967?ticket=CC206439E532892F7D51C264D65517FB52E4AEE0&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/226" tvg-id="a1ca63320d9a8e14f8f67760f5292bc9",E4+1
+http://86.166.86.159:9981/stream/channelid/845400737?ticket=334C492085A826709FEC106446D011F64B5D9263&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/227" tvg-id="8b7a392ebef3a5951f990e8ad6500bbc",5STAR
+http://86.166.86.159:9981/stream/channelid/775518859?ticket=0D3D85CC4301EA71FCDA9A02422851C18DB2BF9C&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/229" tvg-id="5b4c98e79fc4e8576296514ec869cd8a",Sony Movie Ch
+http://86.166.86.159:9981/stream/channelid/1738034267?ticket=44E22E964C0518E26A01E6B09B7A7F1C8C18A01F&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/230" tvg-id="1c3a4ca378b0cdb924a034d9a142a4fd",ITV +1
+http://86.166.86.159:9981/stream/channelid/592198172?ticket=B7A5B8AAEDBD56408C0D353C375AFCFD8ED7EF85&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/323" tvg-id="85dd31a762da68fe3210ae361e02c755",ITV3+1
+http://86.166.86.159:9981/stream/channelid/657579397?ticket=43596031082367F08760D040D9BF1C069003951A&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/233" tvg-id="6c3677151a329146bc793923bad7bed8",QUEST
+http://86.166.86.159:9981/stream/channelid/360134252?ticket=1F72BBD39485B6323FE922DB517143F3874531E8&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/327" tvg-id="2a87e3dea4855fb05fb123a107ebed21",Quest Red
+http://86.166.86.159:9981/stream/channelid/1591969578?ticket=F864D7127DC8D0319397B14DEA61FA3529B90551&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/235" tvg-id="1ede7da5765855fa79f1824ec00a11e0",The Store
+http://86.166.86.159:9981/stream/channelid/629005854?ticket=59425CFF93268050D7E088694195D5087E5259FD&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/237" tvg-id="1e58e25199aa6a44b7f3d203a159a4ec",Food Network
+http://86.166.86.159:9981/stream/channelid/1373788190?ticket=9EEC674EC97DE940566D521A367FE45483E99C6D&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/239" tvg-id="7632f22bec681bff3ca307ac248a6dbf",Gems TV
+http://86.166.86.159:9981/stream/channelid/737292918?ticket=530E985D9770289F027D6AFEF11E63AE6EDBB237&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/240" tvg-id="56dd61e63793f59476eb5b540d314fd7",Channel 5+1
+http://86.166.86.159:9981/stream/channelid/1717689686?ticket=23FDF8157E715EFACF9F7CC9FE52CE9A98A800C3&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/241" tvg-id="64f09ab22a0a39f5aa2de87a0f9e8351",Challenge
+http://86.166.86.159:9981/stream/channelid/849014884?ticket=E753CD381FEC8A6316308A0C7EBBFC4529448EFB&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/243" tvg-id="fcfdf3333f909b8c6c817fc7f845ac1e",movies4men
+http://86.166.86.159:9981/stream/channelid/871628284?ticket=8A4FBD6982A47C50FB085D906F148EC2C87694EE&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/324" tvg-id="3777f5d7d05cd196d7946d84b98aca41",TJC
+http://86.166.86.159:9981/stream/channelid/1475704631?ticket=F61BBBEC0D5EF6D72FD6E1A181DD0F029E7F4369&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/245" tvg-id="38a1f9458c149654dd79e7c2bdff278a",My5
+http://86.166.86.159:9981/stream/channelid/1173987640?ticket=447F5C85B27CAFC0BEB78DE9C49619B58B63E92F&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/316" tvg-id="a75705fdddb10e5e17c4de6394428927",True Crime
+http://86.166.86.159:9981/stream/channelid/2097502119?ticket=D6602D88651905E9C3C6FFAEAE94B9F837C22D6C&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/248" tvg-id="05d12a7a2d3e8bbf1c1e0c1f20169983",True Entertainment
+http://86.166.86.159:9981/stream/channelid/2049626373?ticket=4B673B6190FEC8A42623F6CF8EAB677E0C471F99&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/250" tvg-id="25a877e0f1b346ff3f50d11e8fb9c9c6",TBN UK
+http://86.166.86.159:9981/stream/channelid/1618454565?ticket=92FBF7872631B44C7C746F46DB3E1193E10C3AF1&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/251" tvg-id="cdb3a008796de3589bccb3e5a205f9de",CBS Reality
+http://86.166.86.159:9981/stream/channelid/144749517?ticket=95F7E9C0B084A43FB9F5D1BCC110448383E7D20A&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/252" tvg-id="87e63824b5414242bc7df68d27366a96",truTV
+http://86.166.86.159:9981/stream/channelid/607708807?ticket=7A8706AA9C9EC14A7BDFD6236C1EE740AF34AB3A&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/301" tvg-id="6b4e65e970104fcc9725c46415e511b6",truTV+1
+http://86.166.86.159:9981/stream/channelid/1768246891?ticket=388C58966A5F76D36F5A780F86AD47D825552326&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/253" tvg-id="890413234f3d637bc43d63ea61099c35",Horror Channel
+http://86.166.86.159:9981/stream/channelid/588448905?ticket=14182899283431DCCC5EA9651B064A6381766E4A&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/300" tvg-id="b35fca9bb9124dc70d5e5b8d347698df",YourTV
+http://86.166.86.159:9981/stream/channelid/466247603?ticket=5662B31B4175F92C774ECC06496BB29FA085407E&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/322" tvg-id="8821043953b24614da643e1be8191925",Blaze
+http://86.166.86.159:9981/stream/channelid/956572040?ticket=9319964E561F65D6B6D187BCB217EC4C963F75E5&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/325" tvg-id="c031d1cd4fbb7f057a7d2910543edf8b",Hochanda
+http://86.166.86.159:9981/stream/channelid/1305555392?ticket=9AABA2BBBA73456FF4EED9E75BFA950C2031BEB4&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/256" tvg-id="fc591f8b7e0aa75f0aac741122e14732",CBBC
+http://86.166.86.159:9981/stream/channelid/186604028?ticket=786D31D308EE935F11BFC487482E3B0734C5F41F&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/257" tvg-id="1ed0c822f0831c4467ebb7afbadbd347",CBeebies
+http://86.166.86.159:9981/stream/channelid/583585822?ticket=968997D514DCA95A97B9A5B75C72A83BC4179CDB&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/258" tvg-id="c04f2eb77408e0c06e5a8eaa4066617f",CITV
+http://86.166.86.159:9981/stream/channelid/925781952?ticket=5F8ED7C371E452E4E0F4C78B8E221578C3ACA460&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/317" tvg-id="3a559657c54edc08ee96cfd8299f9b45",Kix
+http://86.166.86.159:9981/stream/channelid/1469470010?ticket=9F3DF43D5D2BBFD20E76B573D51D63596D096120&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/261" tvg-id="10ee5a048f362286e1ff3be98fc49514",BBC NEWS
+http://86.166.86.159:9981/stream/channelid/73068048?ticket=4218A3CDD3EA1AEDB1D5155E72C37619958F507A&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/262" tvg-id="2a8c27667c227ac140a238b4d3190669",BBC Parliament
+http://86.166.86.159:9981/stream/channelid/1713867818?ticket=58B4F87E8B6125780AEA38F33896DD0154E42F1B&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/263" tvg-id="b61b2011bbe499d2aef54600c5f736e9",Sky News
+http://86.166.86.159:9981/stream/channelid/287316918?ticket=1DD8295D89A698F4F81D9E2FEBF08054CA1C4F7B&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/326" tvg-id="0377e25ee068508825b28b113e42f62f",BBC RB 0
+http://86.166.86.159:9981/stream/channelid/1591899907?ticket=8E7C6298E7F4A9BFCC73D489211AA35621236D89&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/266" tvg-id="93387eba15c30844338734c98430018a",BBC RB 1
+http://86.166.86.159:9981/stream/channelid/981350547?ticket=C2E2D875658F971B75017FCC710B4EDC69E534A0&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/267" tvg-id="985fa8ec59dea233d69ba292ab0644e8",BBC Radio 1
+http://86.166.86.159:9981/stream/channelid/1822973848?ticket=1F156533161C7F8F23EB149C167BF135A8567DB7&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/268" tvg-id="f72c017e2732833525d109131dcba06a",BBC R1X
+http://86.166.86.159:9981/stream/channelid/2114006263?ticket=6F82328E59F6300D418D292D7D5B8430B0C4BF48&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/269" tvg-id="08219f25ad5abe45cffd7cdbaf1944d8",BBC Radio 2
+http://86.166.86.159:9981/stream/channelid/631185672?ticket=8C66A44EFFF45AE61252C1184ED0B9261B3EF371&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/270" tvg-id="2258e8da68d10c7c0542f287b174e8dc",BBC Radio 3
+http://86.166.86.159:9981/stream/channelid/1525176354?ticket=1686BA6C5FB131BDE46B1140902CAD0B0EFDE904&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/271" tvg-id="05e0c4d2968a16f8a7359f27ca009e50",BBC Radio 4
+http://86.166.86.159:9981/stream/channelid/1388634117?ticket=2CCF2C3654374E035B422148F70295CBBDC0C1FE&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/272" tvg-id="caef59a8ba046df3801368393aafb8e0",BBC R5L
+http://86.166.86.159:9981/stream/channelid/676982730?ticket=68547153BC3498F87B24DA7606DDAE70D84DD394&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/273" tvg-id="7ff2f53773bc61287a9d2a52ecb2c716",BBC R5SX
+http://86.166.86.159:9981/stream/channelid/938865279?ticket=AE74297149A9ED19ADAC41E224664922056C62B2&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/274" tvg-id="985a58e6b6d760ae75814241ab6e922d",BBC 6 Music
+http://86.166.86.159:9981/stream/channelid/1717066392?ticket=029F08F9F82EA0319C315E40602AA6B0CD1CA71A&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/275" tvg-id="e6c363186d9bcd7b4e59033d042281a3",BBC Radio 4 Ex
+http://86.166.86.159:9981/stream/channelid/409191398?ticket=FAFB933DFA7E5ED00CFA206CA78191906A12D3AC&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/276" tvg-id="a380a8fc5da36efa6c1f83f1c3534e33",BBC Asian Net.
+http://86.166.86.159:9981/stream/channelid/2091417763?ticket=AAD6695E546B15F0F09E924741A368A880BD77F1&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/277" tvg-id="0b1fc8380dc010830ab2e172f9fce168",BBC World Sv.
+http://86.166.86.159:9981/stream/channelid/952639243?ticket=78124C99D464319CF48C3950565D67436AC9FF2E&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/318" tvg-id="392986025ea46a30f1a80a0ff6446b6e",BBC C&W
+http://86.166.86.159:9981/stream/channelid/42346809?ticket=EDCC39E10732C396AC8C0380F039B18976238FC2&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/286" tvg-id="62461553e43918b5cfa661bdea541104",BBC WM
+http://86.166.86.159:9981/stream/channelid/1393903202?ticket=69CDC003107209EF8760959460D0B6670DDBB7AC&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/287" tvg-id="3d12b64629144790d665cbd034262abd",talkSPORT
+http://86.166.86.159:9981/stream/channelid/1186337341?ticket=D465C7441740E43F1EE232FB7D6518632BCBD42D&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/288" tvg-id="74167a0847fbbcc4919a12efd9d0c146",Capital
+http://86.166.86.159:9981/stream/channelid/142218868?ticket=3D008E7B1B8C51C1D20DDEDF51064809A55CDD9E&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/290" tvg-id="03b2fdcee838092f86d8289fd6303fcf",Absolute Radio
+http://86.166.86.159:9981/stream/channelid/1325249027?ticket=C1DDEDB77B63F1F73CA538FD20CAA49445F1DB21&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/291" tvg-id="2be1074c9058a7ca28e3eb6a84189c9d",Heart
+http://86.166.86.159:9981/stream/channelid/1275584811?ticket=B95E4070D98D0435D93CCA5CF98B29869311AA04&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/292" tvg-id="901aa1ac42bb250ab225e40062d439c6",RNIB Connect
+http://86.166.86.159:9981/stream/channelid/748755600?ticket=2A3075D85F2967C6BF226D876BFDA08BBCBEC279&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/320" tvg-id="81e5b34d89f92edb230243d8dbdd1908",BBC Stoke
+http://86.166.86.159:9981/stream/channelid/1303635329?ticket=67FD64B74EF8CBAFE171E9A8281E809D245C828D&profile=pass
+#EXTINF:-1 logo="http://86.166.86.159:9981/imagecache/260" tvg-id="1182883cd06b73d9a3a3de93086c9444",Tiny Pop
+http://86.166.86.159:9981/stream/channelid/1015579153?ticket=2516B05C785A894D3785736A37823D16980C3166&profile=pass
